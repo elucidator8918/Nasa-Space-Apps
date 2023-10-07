@@ -56,8 +56,7 @@ To run the project and access the AI assistant, follow these steps:
 The following team members developed this project:
 - [Siddhant Dutta](https://github.com/elucidator8918)
 - [Pavana P. Karanth](https://github.com/Pavana-karanth)
-- [Team Member 2](https://github.com/team-member2)
 
 ## License
 
-This project is licensed under the [MIT License](LICENSE).
+This project is licensed under the [CC0-1.0 License](LICENSE).
