@@ -2,6 +2,15 @@
 
 ![image](https://github.com/elucidator8918/Nasa-Space-Apps/assets/113273376/93ad87b2-0c8e-4465-b15f-c6f4e2ffa922)
 
+## Site Preview Pictures:
+
+![Screenshot from 2023-10-09 00-36-38](https://github.com/elucidator8918/Nasa-Space-Apps/assets/113273376/0586c449-7f6c-4d4a-8829-806c6847f6ba)
+
+![image](https://github.com/elucidator8918/Nasa-Space-Apps/assets/113273376/1aacdc8b-fa9e-4277-99ca-b1403a2c909a)
+
+![Screenshot from 2023-10-09 00-27-50](https://github.com/elucidator8918/Nasa-Space-Apps/assets/113273376/a676e36c-14ac-41df-aa82-2b63793f1f57)
+
+
 ## Table of Contents
 - [Introduction](#introduction)
 - [Project Description](#project-description)
