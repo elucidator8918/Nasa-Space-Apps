@@ -1,6 +1,6 @@
 # STAR: Revolutionizing Technical Standards with AI
 
-![image](https://github.com/elucidator8918/Nasa-Space-Apps/assets/113273376/86e679e4-cad6-49f5-9c53-5113a8a68cf8)
+![image](https://github.com/elucidator8918/Nasa-Space-Apps/assets/113273376/93ad87b2-0c8e-4465-b15f-c6f4e2ffa922)
 
 ## Table of Contents
 - [Introduction](#introduction)
