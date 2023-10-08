@@ -1,6 +1,15 @@
 # STAR: Revolutionizing Technical Standards with AI
 
-![image](https://github.com/elucidator8918/Nasa-Space-Apps/assets/113273376/86e679e4-cad6-49f5-9c53-5113a8a68cf8)
+![image](https://github.com/elucidator8918/Nasa-Space-Apps/assets/113273376/93ad87b2-0c8e-4465-b15f-c6f4e2ffa922)
+
+## Site Preview Pictures:
+
+![Screenshot from 2023-10-09 00-36-38](https://github.com/elucidator8918/Nasa-Space-Apps/assets/113273376/0586c449-7f6c-4d4a-8829-806c6847f6ba)
+
+![image](https://github.com/elucidator8918/Nasa-Space-Apps/assets/113273376/1aacdc8b-fa9e-4277-99ca-b1403a2c909a)
+
+![Screenshot from 2023-10-09 00-27-50](https://github.com/elucidator8918/Nasa-Space-Apps/assets/113273376/a676e36c-14ac-41df-aa82-2b63793f1f57)
+
 
 ## Table of Contents
 - [Introduction](#introduction)
@@ -41,8 +50,7 @@ To set up the STAR project locally, follow these steps:
 
 1. Clone the repository: `git clone https://github.com/elucidator8918/Nasa-Space-Apps.git`
 2. Navigate to the project directory: `cd Nasa-Space-Apps`
-3. Install the required Python packages: `pip install -r requirements.txt`
-4. Set up Ngrok for exposing your local server to the internet.
+3. Set up Ngrok for exposing your local server to the internet.
 
 ## Usage
 
